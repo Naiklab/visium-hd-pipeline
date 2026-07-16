@@ -1,0 +1,16 @@
+# Excluded: colleague's first-pass script from another project
+pk_wound_healing_visiumHD_analysis_first_pass.Rmd
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# renv restored library (keep renv.lock; ignore the installed packages)
+renv/library/
+renv/local/
+renv/staging/
+
+# OS / editor
+.DS_Store
